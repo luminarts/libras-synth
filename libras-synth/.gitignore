@@ -29,3 +29,5 @@ dist-ssr
 *.png
 *.fbx
 *.Fbx
+*.glb
+*.gltf
